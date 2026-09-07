@@ -4,4 +4,4 @@ this actually funny because it appears in like, obsidian beacuse its an MD file
 
 [[Hello world]] is the first thingy link which i made, keep ts
 h
-jsdfghjkjhgskdjfgnbsidjrhjfd
+eoo
