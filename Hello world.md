@@ -37,3 +37,6 @@ Marko i recom woah why is ts italics idk
 												3-1=
 
 as i had meant to say was, make a script to upload ts file to github every so often. also you could upload yourself too i guess
+
+NEVER FLIPPIN MIND JUST PRESS 
+#Super_O to git push
