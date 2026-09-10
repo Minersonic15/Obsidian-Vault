@@ -15,10 +15,10 @@
       }
     },
     {
-      "query": "",
+      "query": "path:Physics  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 14048448
       }
     }
   ],
@@ -33,5 +33,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1,
-  "close": false
+  "close": true
 }
