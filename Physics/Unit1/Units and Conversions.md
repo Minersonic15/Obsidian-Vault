@@ -10,10 +10,12 @@ Two Types of Observations:
 	- Time
 	- etc
 - Fundamental quantities are so basic that other quantities are expressed in terms of them
-International System of Units
-	- Developed from metric system
-	- Both units and prefixes
-	- **7 fundamental units**:
+# International System of Units
+ Developed from metric system
+ Both units and prefixes
+ **7 fundamental units**:
+
+**System International (SI)**:
 
 | Length              | Meter       | M   |
 | ------------------- | ----------- | --- |
@@ -25,7 +27,7 @@ International System of Units
 | Luminous intensity  | Candela     | cd  |
 ** Candela not used in this course
 
-Derived Units:
+# Derived Units:
 
 | Velocity     | $m/s$         |
 | ------------ | ------------- |
@@ -43,21 +45,38 @@ European version!!
 | $6.67(Nm^2)/(kg^2)$ | $Nm^2kg^-2$     |
 | $$$2.2j/k$          | $$JK^-1$$       |
 | $$8.31j/(k*mol)$$   | $$jk^-1mol^-1$$ |
-# Metric System
+# Metric System/Conversions
 
-| giga  | G       | $$10^9$$  |
-| ----- | ------- | --------- |
-| mega  | M       | $$10^6$$  |
-| kilo  | k       | $$10^3$$  |
-| hecto | h       | $$10^2$$  |
-| decta | da      | $$10^1$$  |
-|       | base    |           |
-| deci  | d       | $$10^-1$$ |
-| centi | c       | $$10^-2$$ |
-| milli | m       | $$10^-3$$ |
-| micro | $$luh$$ | $$10^-6$$ |
-| nano  | n       | $$10^-9$$ |
-**eg: 900nm -> 0.00000009m**
-250 g = 0.250kg
+| giga  | G    | $$10^9$$  |
+| ----- | ---- | --------- |
+| mega  | M    | $$10^6$$  |
+| kilo  | k    | $$10^3$$  |
+| hecto | h    | $$10^2$$  |
+| decta | da   | $$10^1$$  |
+|       | base |           |
+| deci  | d    | $$10^-1$$ |
+| centi | c    | $$10^-2$$ |
+| milli | m    | $$10^-3$$ |
+| micro | uuu  | $$10^-6$$ |
+| nano  | n    | $$10^-9$$ |
+
+- **eg**:
+	900nm -> 0.00000009m
+	250 g = 0.250kg
+	0.00325kg = 3250000ug
+
 - going up the chart, decimal go **LEFT**
 - going down goes **RIGHT**
+-
+- Imperial Conversions:
+	- 1 mile = 1.609km
+
+- Convert:
+	-$$68kmh^-1 ->ms^-1$$
+	$$68km/1h*1000m/1km*1h/60min$$
+	$$18.9ms^-1$$
+Conversion with Exponents:
+**how many cm^2 in 1 m^2**:
+$$100*100=100*2=10,000cm^2$$
+how many cm^3 in 1m^3
+$$100*100*100
