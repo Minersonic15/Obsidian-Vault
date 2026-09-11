@@ -20,6 +20,27 @@
         "a": 1,
         "rgb": 13107455
       }
+    },
+    {
+      "query": "path:Chemistry/Unit1  ",
+      "color": {
+        "a": 1,
+        "rgb": 65380
+      }
+    },
+    {
+      "query": "path:Physics  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
+      }
+    },
+    {
+      "query": "Chemistry :Che ",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
     }
   ],
   "collapse-display": false,

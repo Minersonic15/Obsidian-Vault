@@ -20,16 +20,6 @@
               "icon": "lucide-file",
               "title": "Significant Figures and Scientific Notation"
             }
-          },
-          {
-            "id": "1ebc6197022a3acf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ]
       }
@@ -93,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "fdc55ed393fa4764",
@@ -198,12 +188,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "70e774112ce2f2e8",
+  "active": "90765d4206a0695c",
   "lastOpenFiles": [
+    "Physics/Unit1/Significant Figures and Scientific Notation.md",
     "Chemistry/Unit1",
     "Chemistry",
     "Physics/Unit1/Units and Conversions.md",
-    "Physics/Unit1/Significant Figures and Scientific Notation.md",
     "README.md",
     "English/Ib Learner Profile.md",
     "Physics/Unit1",
