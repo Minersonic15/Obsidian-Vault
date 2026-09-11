@@ -1,0 +1,49 @@
+		___________________
+		|                  |
+		|                  |
+		|                  |
+		|                  |
+	    |                  |
+		|                  |
+		| _____    _____   |
+		|  \__       \__   |
+		|                  |
+		|   \__________    |
+		|__________________|
+# Significant Figures:
+- Error in measurement is expected because of imperfect nature of our measuring devices
+- Significant figures are meaningful digits in any measured or computed value
+- Sig figures include all certain digits (measurement on scale) + 1 uncertain digit which is estimated
+
+Analogue measuring devices:
+- e.g. ruler
+- You can estimate last digit
+Digital Measuring Device:
+- only "good" to least significant digits place
+- e.g. a meter only good to the nearest 0.1V. no estimation of another digit
+
+
+> [!NOTE] Counting Significant Figures
+> 	1. all non zero digits are significant
+> 	2. Zeros at beginning of number are not sig
+> 	3. trailing zeros **without** decimal point are not sig
+> 	4. trailing zeros in number""with"" decimal point are significant
+> 	5. all zeros between sig figs are sig
+> 	6. in scientific notation, all are sig
+
+**Sig fig Calculations:**
+
+- Addition+ Subtraction:
+	- Round answer to same num of decimal places as quantity with fewest num of ceimal places
+- Multiplication and Division
+	- Round answer to same num of sig digs as the quantity with fewest num of sig digs
+# Scientific Notation:
+- Scientific notation (referred to as "standard form") is a way of writing nums that are too big or too small to be conveniently written in decimal form
+- Scientific notation makes calculations much more managable
+- eg: 
+	- $37010000m = 3.701*10^7m$
+	- $0.00003152s=3.152*10^-5$
+
+Sci Notation with Calcs
+	 Enter sci note with a special key, which includes $x10$ from scientific notation. You only need to enter exponent to enter
+

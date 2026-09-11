@@ -11,14 +11,14 @@
       "query": "path:English  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 16711680
       }
     },
     {
-      "query": "path:Physics  ",
+      "query": "path:Physics/Unit1  ",
       "color": {
         "a": 1,
-        "rgb": 14048448
+        "rgb": 13107455
       }
     }
   ],

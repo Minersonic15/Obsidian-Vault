@@ -59,24 +59,24 @@ European version!!
 | milli | m    | $$10^-3$$ |
 | micro | uuu  | $$10^-6$$ |
 | nano  | n    | $$10^-9$$ |
-
+- going up the chart, decimal go **LEFT**
+- going down goes **RIGHT**
+# Examples:
 - **eg**:
 	900nm -> 0.00000009m
 	250 g = 0.250kg
 	0.00325kg = 3250000ug
 
-- going up the chart, decimal go **LEFT**
-- going down goes **RIGHT**
--
+
 - Imperial Conversions:
 	- 1 mile = 1.609km
 
 - Convert:
-	-$$68kmh^-1 ->ms^-1$$
-	$$68km/1h*1000m/1km*1h/60min$$
-	$$18.9ms^-1$$
+	- $68kmh^-1 ->ms^-1$$
+	- $68km/1h*1000m/1km*1h/60min$
+	- $18.9ms^-1$$
 Conversion with Exponents:
-**how many cm^2 in 1 m^2**:
-$$100*100=100*2=10,000cm^2$$
-how many cm^3 in 1m^3
-$$100*100*100
+	**how many cm^2 in 1 m^2**:
+		$100*100=100*2=10,000cm^2$
+	how many cm^3 in 1m^3
+		$100*100*100$
