@@ -1,0 +1,39 @@
+# History:
+
+Greek Model 400BC:
+	- Idea of atom
+	- Democritus:
+		- atomos = indivisible
+		- Solid and indestructible
+Alchemy:
+	- Believed could turn any metal into gold
+	- Used symbols for substances
+	- Transmutation: change 1 thing into another
+Dalton 1803:
+	- Elements consisted of tiny indivisible particles called atoms
+	- elements are pure substances with particular mass, size, and chem behaviour
+	- Compounds consist of atoms of diff elements combined
+Thomson 1897:
+	- Blueberry Muffin model:
+	- Dough = positive
+	- Blueberries = electrons scattered throughout
+	- Problem: need many electrons to balance out positively charged "dough"
+		- Too many keep neutral charge
+	- image
+		![[Pasted image 20260911171013.png]]
+Rutherford 1909:
+	- Atom is mostly empty space
+	- Nucleus small, dense, has positive charge
+	- electrons orbit nucleus
+	- image
+		- ![[Pasted image 20260911172441.png]]
+Bohr 1913:
+	- Similar to Rutherford's
+	- Electrons orbit nucleus
+	- Each orbit represents diff amount of energy for electrons
+	- Diff orbits = diff energy lvls
+		- closer to nucleus, lower energy
+	- Max electrons which can fit in each level
+	- accounted for the energy of each transitions
+	- image of sulphur
+		![[Pasted image 20260911172947.png]]
