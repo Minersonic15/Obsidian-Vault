@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b948fd79cec9e5f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "db4230b593888553",
             "type": "leaf",
             "state": {
@@ -31,8 +21,7 @@
               "title": "Quantum Mechanical Wave Model"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"

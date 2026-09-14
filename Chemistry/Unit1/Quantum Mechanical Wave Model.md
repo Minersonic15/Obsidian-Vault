@@ -14,7 +14,7 @@ Heisenberg Uncertainty Principle (1927)
 	
 De Broglie + Heisenberg
 	- With respect to nucleus, we cannot know where an electron is
-	- Instead, we can know hte probability of finding an electron in a specific region of space
+	- Instead, we can know the probability of finding an electron in a specific region of space
 	- Electrons not particles, but waves
 	- Electrons exist in orbitals
 Bohrs imperfect model
@@ -48,9 +48,32 @@ Magnetic Quantum Number (row)
 	- An orbital can hold two electrons total
 		- May hold 0,1,2, but never more
 
-| Subshell | l   | m l | # orientation |
-| -------- | --- | --- | ------------- |
-| s        | 0   | 0   | 0             |
-| p        | 1   |     |               |
-| d        | 2   |     |               |
-| f        | 3   |     |               |
+| Subshell | l   | m l              | # of orientations | orbital shape or something | # e |
+| -------- | --- | ---------------- | ----------------- | -------------------------- | --- |
+| s        | 0   | 0                | 0                 | 1 s orbital                | 2   |
+| p        | 1   | -1. 0, 1         | 3                 | 3 p orbital                | 6   |
+| d        | 2   | -2, -1, 0, 1, 2  | 5                 | 5 d orb                    | 10  |
+| f        | 3   | -3,-2,-1,0,1,2,3 | 7                 | 7 f orb                    | 14  |
+- get m l going from # digits from negative to positives 
+- **ORIENTATIONS IS THE ROTATION OF THE ORBITALS I THINK**
+
+Magnetic Spin (seat)
+	- Indicates orientation of the 2 e- in each orbital
+	- $ml = + 1/2 or -1/2$
+	- Electrons spin clockwise or counterclockwise
+		- 2 electrons that fill any orbital must have opposite spins
+
+In general, num of electrons in each shell is:
+
+| Level | Sub-level | Max # e in Sublevel | Max # e in level |
+| ----- | --------- | ------------------- | ---------------- |
+| n=1   | 1s        | 2                   | 2                |
+| n=2   | 2s        | 2                   | 8                |
+|       | 2p        | 6                   |                  |
+| n=3   | 3s        | 2                   | 18               |
+|       | 3p        | 6                   |                  |
+|       | 3d        | 10                  |                  |
+| n=4   | 4s        | 2                   | 32               |
+|       | 4p        | 6                   |                  |
+|       | 4d        | 10                  |                  |
+|       | 4f        | 14                  |                  |
