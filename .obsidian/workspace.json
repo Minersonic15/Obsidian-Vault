@@ -8,31 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90765d4206a0695c",
+            "id": "9b948fd79cec9e5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Unit1/Significant Figures and Scientific Notation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Significant Figures and Scientific Notation"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "1b4e248d225a214e",
+            "id": "db4230b593888553",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Unit1/Atomic Structure.md",
+                "file": "Chemistry/Unit1/Quantum Mechanical Wave Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atomic Structure"
+              "title": "Quantum Mechanical Wave Model"
             }
           }
         ],
@@ -203,17 +199,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "1b4e248d225a214e",
+  "active": "db4230b593888553",
   "lastOpenFiles": [
-    "Pasted image 20260911172947.png",
-    "Pasted image 20260911172441.png",
-    "Pasted image 20260911171013.png",
-    "Pasted image 20260911170950.png",
-    "Physics/Unit1/Significant Figures and Scientific Notation.md",
+    "Chemistry/Unit1/Quantum Mechanical Wave Model.md",
     "Chemistry/Unit1/Atomic Structure.md",
+    "Chemistry/Chemistry data Booklet.md",
+    "Physics/Unit1/Significant Figures and Scientific Notation.md",
+    "Physics/Unit1/Units and Conversions.md",
+    "images/Pasted image 20260911170950.png",
+    "images",
+    "images/Pasted image 20260911172947.png",
+    "images/Pasted image 20260911172441.png",
+    "images/Pasted image 20260911171013.png",
     "Chemistry/Unit1",
     "Chemistry",
-    "Physics/Unit1/Units and Conversions.md",
     "README.md",
     "English/Ib Learner Profile.md",
     "Physics/Unit1",

@@ -37,3 +37,4 @@ Bohr 1913:
 	- accounted for the energy of each transitions
 	- image of sulphur
 		![[Pasted image 20260911172947.png]]
+		Periodic table found in [[Chemistry data Booklet]]
