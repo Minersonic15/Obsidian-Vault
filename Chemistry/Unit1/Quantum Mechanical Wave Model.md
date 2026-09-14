@@ -18,7 +18,7 @@ De Broglie + Heisenberg
 	- Electrons not particles, but waves
 	- Electrons exist in orbitals
 Bohrs imperfect model
-	- Electrons further away from nucleus have more energy [[Atomic Structure]]
+	- Electrons further away from nucleus have more energy (more info in [[Atomic Structure]]) 
 # Quantum Numbers
 Principal Quantum Number:
 	- Whole numbers (n)
@@ -59,7 +59,7 @@ Magnetic Quantum Number (row)
 
 Magnetic Spin (seat)
 	- Indicates orientation of the 2 e- in each orbital
-	- $ml = + 1/2 or -1/2$
+	- $ms = + 1/2 or -1/2$
 	- Electrons spin clockwise or counterclockwise
 		- 2 electrons that fill any orbital must have opposite spins
 
@@ -69,11 +69,26 @@ In general, num of electrons in each shell is:
 | ----- | --------- | ------------------- | ---------------- |
 | n=1   | 1s        | 2                   | 2                |
 | n=2   | 2s        | 2                   | 8                |
-|       | 2p        | 6                   |                  |
+| -     | 2p        | 6                   | -                |
 | n=3   | 3s        | 2                   | 18               |
-|       | 3p        | 6                   |                  |
-|       | 3d        | 10                  |                  |
+| -     | 3p        | 6                   | -                |
+| -     | 3d        | 10                  | -                |
 | n=4   | 4s        | 2                   | 32               |
-|       | 4p        | 6                   |                  |
-|       | 4d        | 10                  |                  |
-|       | 4f        | 14                  |                  |
+| -     | 4p        | 6                   | -                |
+| -     | 4d        | 10                  | -                |
+| -     | 4f        | 14                  | -                |
+# Summary
+Energy Level:
+	- n=1 (first)
+	- n=2 (second)
+Orbital Type
+	- l = 0 (s)
+	- l=1 (p)
+	- l=2 (d)
+	- l=3 (f)
+Orbital Orientation:
+	- ml
+	- if l=0, m=0
+	- l=1, m= -1 or +1
+Electron spin:
+	- $ms = +1/2$ or $-1/2$
