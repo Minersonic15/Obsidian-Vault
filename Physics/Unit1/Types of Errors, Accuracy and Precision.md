@@ -1,0 +1,40 @@
+# Random Error
+- Random error is error due to the recorder, rather than the instrument used for measurement
+- Different people may measure same thing differently.
+	- Perhaps same line differently on 2 different occasions.
+e.g
+	Bob measures L = 11mm +- 1mm and Ann measures L = 12mm+- 1mm
+	- Bob guarantees that the line falls between 10mm and 12mm
+	- Ann guarantees it is between 11mm and 13 mm
+	- Both are correct
+# Systematic Error
+- Error due to instrument being "out of adjustment"
+- error shifts all data in one direction
+	- Scale have zero-offset error
+	- meter stick rounded
+e.g:
+	- Bob measures same line at 13mm +- 1mm
+	- Furthermore, every measurement will be off by that same amount
+# Accuracy vs Precision
+Accuracy:
+	- Closeness to true value
+	- How close arrow gets to bullseye
+Precision:
+	- Closeness of a set of data points to one another
+	- spread of shots
+# Measurement and Precision
+- On a ruler/meter stick you might need to guess the last [[Significant Figures and Scientific Notation]]
+	- Must estimate one digit beyond scale reported
+	- **More Digits, more precise**
+- Instruments that can measure high degrees of precision are very important in science as we are limited by our senses
+	- Precision of measuring tool is related to the size of its measurement increments.
+- We can never report data to a higher degree of precision than is appropriate
+
+# Percent Error
+- Quantify accuracy and reliability of experimental results by comparing to accepted/theoretical values
+- $Percent Error = |(Measured Value - Accepted Value)/Accepted Value|*1$
+# Operations + Measured Quantities
+Addition + Subtraction (precision based)
+	- Answer is expressed with same precision of least precise quantity. (Fewest Decimal points)
+Multiplication + Division (Accuracy based)
+	- Answer expressed with same accuracy of least accurate quantity. (fewest [[Significant Figures and Scientific Notation]])

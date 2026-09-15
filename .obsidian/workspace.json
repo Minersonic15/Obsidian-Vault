@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Unit1/Quantum Mechanical Wave Model.md",
+                "file": "Physics/Unit1/Units and Conversions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quantum Mechanical Wave Model"
+              "title": "Units and Conversions"
+            }
+          },
+          {
+            "id": "d2d27abb9ec2961d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,13 +199,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "db4230b593888553",
+  "active": "d2d27abb9ec2961d",
   "lastOpenFiles": [
-    "Chemistry/Unit1/Quantum Mechanical Wave Model.md",
-    "Chemistry/Unit1/Atomic Structure.md",
-    "Chemistry/Chemistry data Booklet.md",
-    "Physics/Unit1/Significant Figures and Scientific Notation.md",
+    "Physics/Unit1/Types of Errors, Accuracy and Precision.md",
+    "sig fig.md",
     "Physics/Unit1/Units and Conversions.md",
+    "Physics/Unit1/Significant Figures and Scientific Notation.md",
+    "Chemistry/Unit1/Quantum Mechanical Wave Model.md",
+    "Chemistry/Chemistry data Booklet.md",
+    "Chemistry/Unit1/Atomic Structure.md",
     "images/Pasted image 20260911170950.png",
     "images",
     "images/Pasted image 20260911172947.png",
