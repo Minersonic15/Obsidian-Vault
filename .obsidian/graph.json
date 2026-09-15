@@ -8,24 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:English  ",
+      "query": "path:Chemistry  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "path:Physics/Unit1  ",
-      "color": {
-        "a": 1,
-        "rgb": 13107455
-      }
-    },
-    {
-      "query": "path:Chemistry/Unit1  ",
-      "color": {
-        "a": 1,
-        "rgb": 65380
+        "rgb": 65280
       }
     },
     {
@@ -36,10 +22,10 @@
       }
     },
     {
-      "query": "Chemistry :Che ",
+      "query": "path:English  ",
       "color": {
         "a": 1,
-        "rgb": 65280
+        "rgb": 16711680
       }
     }
   ],

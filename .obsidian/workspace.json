@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Unit1/Units and Conversions.md",
+                "file": "Chemistry/Unit1/9.15.26 Principles and Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Units and Conversions"
-            }
-          },
-          {
-            "id": "d2d27abb9ec2961d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "9.15.26 Principles and Rules"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,16 +188,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "d2d27abb9ec2961d",
+  "active": "db4230b593888553",
   "lastOpenFiles": [
-    "Physics/Unit1/Types of Errors, Accuracy and Precision.md",
-    "sig fig.md",
-    "Physics/Unit1/Units and Conversions.md",
-    "Physics/Unit1/Significant Figures and Scientific Notation.md",
-    "Chemistry/Unit1/Quantum Mechanical Wave Model.md",
-    "Chemistry/Chemistry data Booklet.md",
-    "Chemistry/Unit1/Atomic Structure.md",
+    "Chemistry/Unit1/9.11.26 Atomic Structure.md",
     "images/Pasted image 20260911170950.png",
+    "Physics/Unit1/9.15.26 Types of Errors, Accuracy and Precision.md",
+    "English/9.9.26 Ib Learner Profile.md",
+    "Physics/Unit1/9.9.26 Significant Figures and Scientific Notation.md",
+    "Physics/Unit1/9.10.26 Units and Conversions.md",
+    "Chemistry/Chemistry data Booklet.md",
+    "Chemistry/Unit1/9.15.26 Principles and Rules.md",
+    "Chemistry/Unit1/9.14.26 Quantum Mechanical Wave Model.md",
+    "sig fig.md",
     "images",
     "images/Pasted image 20260911172947.png",
     "images/Pasted image 20260911172441.png",
@@ -216,7 +207,6 @@
     "Chemistry/Unit1",
     "Chemistry",
     "README.md",
-    "English/Ib Learner Profile.md",
     "Physics/Unit1",
     "Hello world.md",
     "Physics",
