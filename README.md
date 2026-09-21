@@ -37,6 +37,10 @@ $$
 E=mc^2 + i -think-ts-is-a-formula-writer-use-for-chem-and-math-and-physics-prolly-idk-i-not-there-yet
 $$
 also its between 2 sets of 3$s
+no 1
+or2
+$$$hi$$$ ok
+$e=emc2$
 
 Marko i recom woah why is ts italics idk
 *what wait its not wait whuh* wait it what the heck if ifxed and its not what
