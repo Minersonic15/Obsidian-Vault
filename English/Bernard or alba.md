@@ -1,0 +1,6 @@
+# The Matriarchs:
+Bernarda
+- First name derives from German roots meaning brave as a bear
+- Alba means dawn or white
+Maria Josefa:
+- Both Mary and Joseph are parents of Jesus
