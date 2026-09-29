@@ -50,3 +50,9 @@ as i had meant to say was, make a script to upload ts file to github every so of
 
 NEVER FLIPPIN MIND JUST PRESS 
 Super_O to git push
+
+woah
+```
+$$nkmpl
+
+```h ```
