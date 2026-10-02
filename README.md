@@ -18,7 +18,8 @@ Things to remember in this software:
 ```
 #include iostream
 int main() {
-std::cout >> "you can include code blocks with the ```s"
+std::cout >> "you can include code blocks with the ```s\n";
+return 0;
 }
 ```
 
@@ -28,7 +29,7 @@ use 3 -s for a line
 nvm idk
 
 
-
+--- hoi --- 
 > [!NOTE] hello
 > what the HECK  is thois
 > wait i think its a lil note stickynote looking thing
