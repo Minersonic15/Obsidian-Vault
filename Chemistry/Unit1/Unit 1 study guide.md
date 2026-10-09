@@ -7,7 +7,7 @@
 | O                           | ![[Plum Pudding.png]]                | ![[I dont know.png]] | ![[Bohr-Rutherford.png]] |                                   |                                                      |
 # H emission spectrum
 Line spectrum produced when excited electrons in hydrogen atoms fall from higher energy levels to lower, releasing photons of specific wavelengths
-![[Pasted image 20261009155154.png]]
+![[H emission soectrum.png]]
 # Quantum Numbers
 [[9.14.26 Quantum Mechanical Wave Model]]
 n= energy level
@@ -134,7 +134,7 @@ $FC = Ve^- -unbonded.e^- - bonding. e^-/2$
 | bent                 | AX2E2 | 4   | -                |
 | linear               | AXE3  | 4   | -                |
 | trigonal bipyramidal | AX3   | 5   | trig bipyramidal |
-| sesaw                | AX4E  | 5   | -                |
+| seesaw               | AX4E  | 5   | -                |
 | octohedral           | AX6   | 6   | octahedral       |
  
 # Intermolecular forces
