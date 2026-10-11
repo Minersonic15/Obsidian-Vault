@@ -1,10 +1,10 @@
 # scientists
-[[9.11.26 Atomic Structure]]
+[[9.11.26 History]]
 
-| Dalton                      | Thomson                              | Rutherford           | Bohr                     | de Broglie                        | Heisenberg                                           |
-| --------------------------- | ------------------------------------ | -------------------- | ------------------------ | --------------------------------- | ---------------------------------------------------- |
-| Elements consisted of atoms | Plum pudding model (pudding+ plum -) | Nucleus              | Electrons orbit          | Electrons are waves, not particle | It is impossible to know location and velocity of e- |
-| O                           | ![[Plum Pudding.png]]                | ![[I dont know.png]] | ![[Bohr-Rutherford.png]] |                                   |                                                      |
+| Greek                             | Alchemists                                                       | Dalton                      | Thomson                              | Rutherford           | Bohr                     | de Broglie                        | Heisenberg                                           |
+| --------------------------------- | ---------------------------------------------------------------- | --------------------------- | ------------------------------------ | -------------------- | ------------------------ | --------------------------------- | ---------------------------------------------------- |
+| Idea of atom -solid + indivisible | Symbols for substances, believed could transform metal into gold | Elements consisted of atoms | Plum pudding model (pudding+ plum -) | Nucleus              | Electrons orbit          | Electrons are waves, not particle | It is impossible to know location and velocity of e- |
+|                                   |                                                                  | O                           | ![[Plum Pudding.png]]                | ![[I dont know.png]] | ![[Bohr-Rutherford.png]] |                                   |                                                      |
 # H emission spectrum
 Line spectrum produced when excited electrons in hydrogen atoms fall from higher energy levels to lower, releasing photons of specific wavelengths
 ![[H emission soectrum.png]]
@@ -75,6 +75,7 @@ if in 3d, remove from 4s
 - Electronegativity
 	- increases across a period
 	- decreases down a group
+	- ability of an atom to attract electrons
 - Electron affinity
 	- decreases down a group
 	- increases across a period
@@ -85,8 +86,13 @@ if in 3d, remove from 4s
 
 # Lattice enthalpy
 [[9.24.26 Metallic Bonding]]'
-Crystal struct
-
+Crystal lattice struct
+standard enthalpy charge that occurs on formation of gaseous ions from one solid lattice
+strength of ionic bond
+endothermic (thermal)
+increases as force of attraction increases
+affected by ionic radius and charge
+[[10.4.26 Bonding Type and Properties]]
 # Ionic bond
 [[9.28.26 Chemical Bonding]]
 - Complete transfer of electrons
@@ -133,19 +139,19 @@ $FC = Ve^- -unbonded.e^- - bonding. e^-/2$
 | tetrahedral          | AX4   | 4   | -                |
 | bent                 | AX2E2 | 4   | -                |
 | linear               | AXE3  | 4   | -                |
-| trigonal bipyramidal | AX3   | 5   | trig bipyramidal |
+| trigonal bipyramidal | AX5   | 5   | trig bipyramidal |
 | seesaw               | AX4E  | 5   | -                |
 | octohedral           | AX6   | 6   | octahedral       |
  
 # Intermolecular forces
 [[9.30.26 Intermolecular Forces]]
 
-|          | Van Der Waal (London Force)      | Dipole-Dipole Forces                     | Hydrogen Bonds     | Ion-Dipole Foces    |     |
-| -------- | -------------------------------- | ---------------------------------------- | ------------------ | ------------------- | --- |
-| Polarity | Non polar - polar                | Polar - polar                            | polar - polar      | ion - polar         |     |
-| charge   | ?                                | partial to partial                       | partial to partial | full to partial     |     |
-| Strength | Depends on molar mass            | WAY stronger than VDW                    | Strongest          | very strong         |     |
-| Extra    | More electrons, more temp dipole | Electrostatic attraction between dipoles | Requires N, O, F   | Electrostatic force |     |
+|          | Van Der Waal (London Force)                                                                      | Dipole-Dipole Forces                     | Hydrogen Bonds     | Ion-Dipole Foces    |     |
+| -------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------- | ------------------ | ------------------- | --- |
+| Polarity | Non polar - polar                                                                                | Polar - polar                            | polar - polar      | ion - polar         |     |
+| charge   | ?                                                                                                | partial to partial                       | partial to partial | full to partial     |     |
+| Strength | Depends on molar mass                                                                            | WAY stronger than VDW                    | Strongest          | very strong         |     |
+| Extra    | An interaction of temporarily polarized molecules because of the attraction of opposite charges. | Electrostatic attraction between dipoles | Requires N, O, F   | Electrostatic force |     |
 # Carbon Allotropes
 
 |             | Diamond          | Graphite          | Graphene          | Fullerenes        |
@@ -154,3 +160,7 @@ $FC = Ve^- -unbonded.e^- - bonding. e^-/2$
 | VESPR shape | Tetrahedral      | Trigonal planar   | Trigonal Planar   | Trigonal planar   |
 | diagram     | ![[Diamond.png]] | ![[Graphite.png]] | ![[Graphene.png]] | ![[Fullrene.png]] |
 # Metallic Bonding
+- Crystalline solid
+- Lattice formation
+- Delocalized electrons move around freely because cations repel eachother
+- Electrostatic attraction
