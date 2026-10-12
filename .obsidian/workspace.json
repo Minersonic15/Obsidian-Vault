@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Unit 1 study guide"
             }
+          },
+          {
+            "id": "0b3208e5aed7675a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Unit1 Atomic structure/Unit 1 study guide.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,10 +196,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "7a933977664b2100",
+  "active": "0b3208e5aed7675a",
   "lastOpenFiles": [
-    "Chemistry/Unit1 Atomic structure/Quiz1/9.11.26 History.md",
     "Chemistry/Unit1 Atomic structure/Unit 1 study guide.md",
+    "Chemistry/Unit1 Atomic structure/Quiz1/9.11.26 History.md",
     "Chemistry/Unit1 Atomic structure/Quiz2/10.4.26 VSEPR.md",
     "Chemistry/Unit1 Atomic structure/Quiz2/9.24.26 Metallic Bonding.md",
     "Chemistry/Unit2 Nomenclature+Reactions/10.8.26 Ionic Nomenclature.md",

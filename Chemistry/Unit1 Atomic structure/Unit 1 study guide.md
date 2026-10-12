@@ -129,7 +129,7 @@ affected by ionic radius and charge
 # Formal charge
 $FC = Ve^- -unbonded.e^- - bonding. e^-/2$
 # VSEPR
-[[10.4.26 VSEPR]]
+[[10.4.26 VSEPR]]      
 
 | Molecular shape Geo  | AXE   | EDG |                  |
 | -------------------- | ----- | --- | ---------------- |
