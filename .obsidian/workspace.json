@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Unit1 Atomic structure/9.11.26 History.md",
+                "file": "Physics/Unit3 Dynamics/10.13.26 Intro to forces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.11.26 History"
+              "title": "10.13.26 Intro to forces"
+            }
+          },
+          {
+            "id": "c21ef969c82948af",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -185,43 +195,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "70e774112ce2f2e8",
+  "active": "7a933977664b2100",
   "lastOpenFiles": [
+    "Physics/Unit2 Kinematics/9.21.26 Vectors and Scalars.md",
+    "Physics/Unit3 Dynamics/10.13.26 Intro to forces.md",
+    "Physics/Unit1/9.9.26 Units and Conversions.md",
+    "README.md",
+    "Physics/Unit1/9.10.26 Significant Figures and Scientific Notation.md",
+    "Physics/Unit1/9.15.26 Types of Errors, Accuracy and Precision.md",
+    "Physics/Unit2 Kinematics/9.29.26 Intro to motion.md",
+    "Physics/Unit2 Kinematics/9.22.26 The Component Method.md",
+    "2026-10-13.md",
+    "Physics/Unit1/9.17.26 Rearranging formulas Quadratic formula, trigonometry.md",
+    "Chemistry/Unit1 Atomic structure/Unit 1 study guide.md",
+    "Physics/Unit3 Dynamics",
+    "Chemistry/Unit1 Atomic structure/9.17.26 Periodicity.md",
+    "Chemistry/Unit1 Atomic structure/9.11.26 History.md",
+    "Chemistry/Unit2 Nomenclature+Reactions/10.9.26 Covalent Compounds.md",
+    "Chemistry/Chemistry data Booklet.md",
+    "Chemistry/Unit2 Nomenclature+Reactions/10.8.26 Ionic Nomenclature.md",
+    "Chemistry/Unit1 Atomic structure/9.14.26 Quantum Mechanical Wave Model.md",
+    "Chemistry/Unit1 Atomic structure/9.30.26 Intermolecular Forces.md",
+    "Chemistry/Unit1 Atomic structure/9.16.26 Ions.md",
+    "Chemistry/Unit1 Atomic structure/10.4.26 Bonding Type and Properties.md",
     "Chemistry/Unit1 Atomic structure/9.24.26 Metallic Bonding.md",
     "Chemistry/Unit1 Atomic structure/9.28.26 Chemical Bonding.md",
-    "Chemistry/Unit1 Atomic structure/9.30.26 Intermolecular Forces.md",
-    "Chemistry/Unit1 Atomic structure/9.14.26 Quantum Mechanical Wave Model.md",
-    "Chemistry/Unit1 Atomic structure/9.15.26 Principles and Rules.md",
-    "Chemistry/Unit1 Atomic structure/9.11.26 History.md",
-    "Chemistry/Unit1 Atomic structure/Unit 1 study guide.md",
-    "Chemistry/Unit1 Atomic structure/10.1.26 Covalent Network Structures.md",
-    "Chemistry/Unit2 Nomenclature+Reactions/10.9.26 Covalent Compounds.md",
-    "Chemistry/Unit1 Atomic structure/10.4.26 VSEPR.md",
-    "Chemistry/Unit2 Nomenclature+Reactions/10.8.26 Ionic Nomenclature.md",
-    "Chemistry/Unit1 Atomic structure/10.4.26 Bonding Type and Properties.md",
-    "Chemistry/Unit1 Atomic structure/9.29.26 Lewis Diagrams.md",
-    "Chemistry/Unit1 Atomic structure/9.25.26 Separation Techniques + Chromatography.md",
     "Chemistry/Unit1 Atomic structure/9.25.26 Atomic Notation.md",
-    "Chemistry/Unit1 Atomic structure/9.17.26 Periodicity.md",
-    "Chemistry/Unit1 Atomic structure/9.16.26 Ions.md",
-    "2026-10-09.md",
+    "Chemistry/Unit1 Atomic structure/9.15.26 Principles and Rules.md",
+    "Chemistry/Unit1 Atomic structure/10.1.26 Covalent Network Structures.md",
+    "Chemistry/Unit1 Atomic structure/10.4.26 VSEPR.md",
     "Untitled.canvas",
     "images/H emission soectrum.png",
-    "Physics/Unit2 Kinematics/10.2.26  Equations of Motion.md",
-    "Physics/Unit2 Kinematics/10.4.26 Free Fall.md",
     "images/Energy lvl diagram copper.png",
     "images/Energy config.png",
     "Pasted image 20261009011129.png",
     "Chemistry/Unit2 Nomenclature+Reactions",
-    "Physics/Unit2 Kinematics/9.30.26 Graphs of Motion.md",
-    "Physics/Unit2 Kinematics/9.29.26 Intro to motion.md",
-    "Physics/Unit2 Kinematics/10.1.26 Velocity vs Time Graphs.md",
-    "Physics/Unit1/9.22.26 The Component Method.md",
     "images/LewisSF4.png",
-    "Physics/Unit1/9.21.26 Vectors and Scalars.md",
     "images/Lewis Dot H2O.png",
     "images/vsepr PCl5.png",
-    "English/9.20.26 Bernard or alba.md",
     "images/LewisDotH2o.png",
     "images/VSEPR NH3.png",
     "images/Lewis NH3.png",
@@ -232,7 +243,6 @@
     "Physics/Unit2 Kinematics",
     "Physics/Vectors and Scalars",
     "Physics/Unit2",
-    "images",
-    "Chemistry/Unit1 Atomic structure"
+    "images"
   ]
 }
