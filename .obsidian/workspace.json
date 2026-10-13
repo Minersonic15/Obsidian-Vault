@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Unit1 Atomic structure/Unit 1 study guide.md",
+                "file": "Chemistry/Unit1 Atomic structure/Quiz2/9.28.26 Chemical Bonding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unit 1 study guide"
-            }
-          },
-          {
-            "id": "0b3208e5aed7675a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "9.28.26 Chemical Bonding"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,25 +185,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "0b3208e5aed7675a",
+  "active": "7a933977664b2100",
   "lastOpenFiles": [
-    "Chemistry/Unit1 Atomic structure/Unit 1 study guide.md",
+    "Chemistry/Unit1 Atomic structure/Quiz2/9.30.26 Intermolecular Forces.md",
+    "Chemistry/Unit1 Atomic structure/Quiz2/9.28.26 Chemical Bonding.md",
+    "Chemistry/Unit1 Atomic structure/Quiz1/9.14.26 Quantum Mechanical Wave Model.md",
+    "Chemistry/Unit1 Atomic structure/Quiz1/9.15.26 Principles and Rules.md",
     "Chemistry/Unit1 Atomic structure/Quiz1/9.11.26 History.md",
+    "Chemistry/Unit1 Atomic structure/Unit 1 study guide.md",
+    "Chemistry/Unit1 Atomic structure/Quiz2/10.1.26 Covalent Network Structures.md",
+    "Chemistry/Unit2 Nomenclature+Reactions/10.9.26 Covalent Compounds.md",
     "Chemistry/Unit1 Atomic structure/Quiz2/10.4.26 VSEPR.md",
     "Chemistry/Unit1 Atomic structure/Quiz2/9.24.26 Metallic Bonding.md",
     "Chemistry/Unit2 Nomenclature+Reactions/10.8.26 Ionic Nomenclature.md",
-    "Chemistry/Unit2 Nomenclature+Reactions/10.9.26 Covalent Compounds.md",
     "Chemistry/Unit1 Atomic structure/Quiz2/10.4.26 Bonding Type and Properties.md",
-    "Chemistry/Unit1 Atomic structure/Quiz2/10.1.26 Covalent Network Structures.md",
-    "Chemistry/Unit1 Atomic structure/Quiz2/9.30.26 Intermolecular Forces.md",
     "Chemistry/Unit1 Atomic structure/Quiz2/9.29.26 Lewis Diagrams.md",
-    "Chemistry/Unit1 Atomic structure/Quiz2/9.28.26 Chemical Bonding.md",
     "Chemistry/Unit1 Atomic structure/Quiz2/9.25.26 Separation Techniques + Chromatography.md",
     "Chemistry/Unit1 Atomic structure/Quiz2/9.25.26 Atomic Notation.md",
     "Chemistry/Unit1 Atomic structure/Quiz1/9.17.26 Periodicity.md",
     "Chemistry/Unit1 Atomic structure/Quiz1/9.16.26 Ions.md",
-    "Chemistry/Unit1 Atomic structure/Quiz1/9.15.26 Principles and Rules.md",
-    "Chemistry/Unit1 Atomic structure/Quiz1/9.14.26 Quantum Mechanical Wave Model.md",
     "2026-10-09.md",
     "Untitled.canvas",
     "images/H emission soectrum.png",

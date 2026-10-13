@@ -1,4 +1,4 @@
-# scientists
+N  scientists
 [[9.11.26 History]]
 
 | Greek                             | Alchemists                                                       | Dalton                      | Thomson                              | Rutherford           | Bohr                     | de Broglie                        | Heisenberg                                           |
@@ -41,7 +41,7 @@ remember: for the weridf like thingy letter thing it first num erengrey like is 
 so 4s2 3d10 4p6
 
 **IF IT SIMPLIFIED**
-square bracket closest noble gas
+square bracket closest noble gas[zzz]()
 [Xe] ?s2 ?d6
 (I forget energy level after xenon so yeah replace with right)
 
@@ -153,6 +153,7 @@ $FC = Ve^- -unbonded.e^- - bonding. e^-/2$
 | Strength | Depends on molar mass                                                                            | WAY stronger than VDW                    | Strongest          | very strong         |     |
 | Extra    | An interaction of temporarily polarized molecules because of the attraction of opposite charges. | Electrostatic attraction between dipoles | Requires N, O, F   | Electrostatic force |     |
 # Carbon Allotropes
+[[10.1.26 Covalent Network Structures]]
 
 |             | Diamond          | Graphite          | Graphene          | Fullerenes        |
 | ----------- | ---------------- | ----------------- | ----------------- | ----------------- |
