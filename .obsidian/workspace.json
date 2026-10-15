@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "d98de43287e10d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Unit3 Dynamics/10.15.26 Net Force & Newtons 1st law.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.15.26 Net Force & Newtons 1st law"
+            }
+          },
+          {
             "id": "c21ef969c82948af",
             "type": "leaf",
             "state": {
@@ -31,7 +45,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,10 +210,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "7a933977664b2100",
+  "active": "70e774112ce2f2e8",
   "lastOpenFiles": [
-    "Physics/Unit2 Kinematics/9.21.26 Vectors and Scalars.md",
     "Physics/Unit3 Dynamics/10.13.26 Intro to forces.md",
+    "images/Mr Freebody and sherman.png",
+    "Physics/Unit3 Dynamics/10.15.26 Net Force & Newtons 1st law.md",
+    "images/hi.canvas",
+    "Physics/Unit2 Kinematics/9.21.26 Vectors and Scalars.md",
     "Physics/Unit1/9.9.26 Units and Conversions.md",
     "README.md",
     "Physics/Unit1/9.10.26 Significant Figures and Scientific Notation.md",
@@ -222,9 +240,6 @@
     "Chemistry/Unit1 Atomic structure/9.28.26 Chemical Bonding.md",
     "Chemistry/Unit1 Atomic structure/9.25.26 Atomic Notation.md",
     "Chemistry/Unit1 Atomic structure/9.15.26 Principles and Rules.md",
-    "Chemistry/Unit1 Atomic structure/10.1.26 Covalent Network Structures.md",
-    "Chemistry/Unit1 Atomic structure/10.4.26 VSEPR.md",
-    "Untitled.canvas",
     "images/H emission soectrum.png",
     "images/Energy lvl diagram copper.png",
     "images/Energy config.png",
@@ -235,7 +250,6 @@
     "images/vsepr PCl5.png",
     "images/LewisDotH2o.png",
     "images/VSEPR NH3.png",
-    "images/Lewis NH3.png",
     "Chemistry/Unit1 Atomic structure/Quiz2",
     "Chemistry/Unit1 Atomic structure/Quiz1",
     "Untitled 1.base",
