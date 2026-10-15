@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Unit3 Dynamics/10.15.26 Net Force & Newtons 1st law.md",
+                "file": "Physics/Unit3 Dynamics/10.15.26 Net Force z.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.15.26 Net Force & Newtons 1st law"
+              "title": "10.15.26 Net Force z"
             }
           },
           {
@@ -210,11 +210,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "70e774112ce2f2e8",
+  "active": "d98de43287e10d3f",
   "lastOpenFiles": [
     "Physics/Unit3 Dynamics/10.13.26 Intro to forces.md",
     "images/Mr Freebody and sherman.png",
-    "Physics/Unit3 Dynamics/10.15.26 Net Force & Newtons 1st law.md",
+    "Physics/Unit3 Dynamics/10.15.26 Net Force z.md",
     "images/hi.canvas",
     "Physics/Unit2 Kinematics/9.21.26 Vectors and Scalars.md",
     "Physics/Unit1/9.9.26 Units and Conversions.md",
