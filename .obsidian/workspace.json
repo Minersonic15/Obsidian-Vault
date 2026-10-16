@@ -36,6 +36,34 @@
             }
           },
           {
+            "id": "852a475b2f202f85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Unit3 Dynamics/10.15.26 Net Force.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.15.26 Net Force"
+            }
+          },
+          {
+            "id": "d8af5b334f87fa36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Unit3 Dynamics/10.16.26 Newtons Law.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.16.26 Newtons Law"
+            }
+          },
+          {
             "id": "c21ef969c82948af",
             "type": "leaf",
             "state": {
@@ -46,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,11 +238,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "d98de43287e10d3f",
+  "active": "d8af5b334f87fa36",
   "lastOpenFiles": [
+    "Physics/Unit3 Dynamics/10.15.26 Net Force.md",
+    "Physics/Unit3 Dynamics/10.16.26 Newtons Law.md",
+    "Chemistry/Unit2 Nomenclature+Reactions/10.8.26 Ionic Nomenclature.md",
+    "Chemistry/Unit2 Nomenclature+Reactions/10.14.26 Balancing.md",
+    "Chemistry/Unit2 Nomenclature+Reactions/10.9.26 Covalent Compounds.md",
     "Physics/Unit3 Dynamics/10.13.26 Intro to forces.md",
     "images/Mr Freebody and sherman.png",
-    "Physics/Unit3 Dynamics/10.15.26 Net Force z.md",
     "images/hi.canvas",
     "Physics/Unit2 Kinematics/9.21.26 Vectors and Scalars.md",
     "Physics/Unit1/9.9.26 Units and Conversions.md",
@@ -229,9 +261,7 @@
     "Physics/Unit3 Dynamics",
     "Chemistry/Unit1 Atomic structure/9.17.26 Periodicity.md",
     "Chemistry/Unit1 Atomic structure/9.11.26 History.md",
-    "Chemistry/Unit2 Nomenclature+Reactions/10.9.26 Covalent Compounds.md",
     "Chemistry/Chemistry data Booklet.md",
-    "Chemistry/Unit2 Nomenclature+Reactions/10.8.26 Ionic Nomenclature.md",
     "Chemistry/Unit1 Atomic structure/9.14.26 Quantum Mechanical Wave Model.md",
     "Chemistry/Unit1 Atomic structure/9.30.26 Intermolecular Forces.md",
     "Chemistry/Unit1 Atomic structure/9.16.26 Ions.md",
@@ -239,7 +269,6 @@
     "Chemistry/Unit1 Atomic structure/9.24.26 Metallic Bonding.md",
     "Chemistry/Unit1 Atomic structure/9.28.26 Chemical Bonding.md",
     "Chemistry/Unit1 Atomic structure/9.25.26 Atomic Notation.md",
-    "Chemistry/Unit1 Atomic structure/9.15.26 Principles and Rules.md",
     "images/H emission soectrum.png",
     "images/Energy lvl diagram copper.png",
     "images/Energy config.png",
