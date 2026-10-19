@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "path:Physics  ",
+      "query": "path:English  ",
       "color": {
         "a": 1,
         "rgb": 16711680
@@ -39,6 +39,6 @@
   "repelStrength": 8.40346285484196,
   "linkStrength": 0.561908596738474,
   "linkDistance": 154,
-  "scale": 0.3210174126391471,
+  "scale": 0.21401160842609804,
   "close": true
 }
