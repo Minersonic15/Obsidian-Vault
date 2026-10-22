@@ -38,8 +38,7 @@
               "title": "hi"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,10 +202,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "fa2085e9fd667545",
+  "active": "65c0bf809fe63bfc",
   "lastOpenFiles": [
-    "Physics/Unit3 Dynamics/10.22.26 Friction.md",
     "images/hi.canvas",
+    "Physics/Unit3 Dynamics/10.22.26 Friction.md",
     "Chemistry/Unit2 Nomenclature+Reactions/10.9.26 Covalent Compounds.md",
     "English/10.20.26 Relationship between Macbeth and Banquo.md",
     "Chemistry/Unit2 Nomenclature+Reactions/10.19.26 Reactions note 2.md",
