@@ -1,4 +1,6 @@
+Everything from [[10.19.26 Reactions note 2]]
 # Synthesis
+    
 # Decomposition
 - Carbonates decompose to Carbon Dioxide and metal oxide
 - Chlorates decompose to oxygen and metal chloride
@@ -42,7 +44,7 @@ Non-metal reactivity series
 	- insoluble product formed
 	- soluble + aqueous
 - Gas Formation
-	- Secondary decomposition reaction occurs
+	- Secondary decomposition reaction occurs 
 	- carbonates, sulfites, chlorates
 - Neutralization
 	- Reaction between acid and base to form salt and water
