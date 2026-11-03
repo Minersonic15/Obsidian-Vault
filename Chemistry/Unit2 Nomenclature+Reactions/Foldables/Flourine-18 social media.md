@@ -36,6 +36,14 @@ ___
 - nickname is Radioflourine, as its referred to as that
 - Last online 109.734 minutes ago or sum
 - pfp is like,
+
+# Posts
+1. Born in the cyclotron, thank oxygen-18
+2. Appologise to Hydroxyl for taking its job
+3. "If you need a brain scan come to me"
+4. photo of flourine-18 with older brother flourine-19
+5. Everyone says i emit positivity! "positron emissions"
+6. "Spotting cancer in people day after day" or some
 https://www.sciencedirect.com/topics/neuroscience/fluorine-18
 https://www2.lbl.gov/Science-Articles/Archive/early-years.
 https://www.chemlin.org/isotope/fluorine-18
