@@ -2,6 +2,7 @@
 - Naturally occurring variations of an element
 - Same num of protons and electrons
 - Different num of neutrons and a diff atomic mass
+[[10.27.26 Isotopes + atomic mass]]
 # Average atomic mass
 weighted average that reflects both mass of element and proportions it naturally occurs
 - $$atomic mass = (massOfIsotope * relativeAbundance) + (massOfIsotope * relativeAbundance)$$

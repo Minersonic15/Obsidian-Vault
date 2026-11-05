@@ -9,6 +9,7 @@
 - Decays by positron emission most of the time
 	- electron capture lil bit
 	- Both yield oxygen-18
+- [[10.27.26 Isotopes + atomic mass]]
 # Nat occurence
 - Produced by "spallation" of atmospheric argon
 - by reaction of protons with oxygen-18 in the air
